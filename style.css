@@ -29,6 +29,7 @@ html, body, .container{
     border-radius: 24px;
     border: 2px solid #666A74;
     flex-direction: column;
+    background-color: rgb(0 7 21);
 }
 
 .titlebar{
